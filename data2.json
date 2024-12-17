@@ -1,0 +1,34 @@
+{
+  "1355955": {
+    "Plant Name": "Pelargonium_odoratissimum",
+    "Plant Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOp-v9vWXLKmRshVoTbGdlU3qMxEqOF6ISNA&s",
+    "Temperature": "18 - 27°C",
+    "Lighting": "Full sun",
+    "Humidity": "High",
+    "Plant Type": "Biennial",
+    "Sun Exposure": "Full sun",
+    "Soil Type": "Rich",
+    "Soil pH": "6.5 - 7.5",
+    "Hardiness Zones": "5-9",
+    "Native Area": "Europe, Asia",
+    "Toxicity": "Mildly toxic",
+    "Common Name": "Wild Lettuce",
+    "Difficulty": "Easy"
+  },
+  "1361357": {
+    "Plant Name": "Phalaris_coerulescens",
+    "Plant Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFoGlSVUMqJpw2FSKIpjgBBVCJVOUFe9SKw&s",
+    "Temperature": "15- 25°C",
+    "Lighting": "Partial shade",
+    "Humidity": "High",
+    "Plant Type": "Fern",
+    "Sun Exposure": "Partial shade",
+    "Soil Type": "Moist, Well-draining",
+    "Soil pH": "4.5 - 6.5",
+    "Hardiness Zones": "3-9",
+    "Native Area": "Europe, Asia, Africa",
+    "Toxicity": "Non-toxic",
+    "Common Name": "Royal Fern",
+    "Difficulty": "Easy"
+  }
+}
